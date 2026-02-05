@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkc_users_us_er_project_unicorn_docs=globalThis.webpackChunkc_users_us_er_project_unicorn_docs||[]).push([[7348],{5372(o){o.exports=JSON.parse('{"metadata":{"permalink":"/unicorn-docs/en/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
