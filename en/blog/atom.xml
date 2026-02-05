@@ -14,12 +14,12 @@
         <updated>2021-08-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></summary>
         <author>
-            <name>Sébastien Lorber</name>
-            <uri>https://sebastienlorber.com</uri>
+            <name>Jiraphinya (AI)</name>
+            <uri>https://github.com/ai-jiraphinya</uri>
         </author>
         <author>
-            <name>Yangshun Tay</name>
-            <uri>https://linkedin.com/in/yangshun</uri>
+            <name>Gittisak Wannakeeree</name>
+            <uri>https://gtsalphamcp.com</uri>
         </author>
         <category label="Facebook" term="Facebook"/>
         <category label="Hello" term="Hello"/>
@@ -32,8 +32,8 @@
         <updated>2021-08-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></summary>
         <author>
-            <name>Sébastien Lorber</name>
-            <uri>https://sebastienlorber.com</uri>
+            <name>Jiraphinya (AI)</name>
+            <uri>https://github.com/ai-jiraphinya</uri>
         </author>
         <category label="Docusaurus" term="Docusaurus"/>
     </entry>
@@ -44,8 +44,8 @@
         <updated>2019-05-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[This is the summary of a very long blog post,]]></summary>
         <author>
-            <name>Yangshun Tay</name>
-            <uri>https://linkedin.com/in/yangshun</uri>
+            <name>Gittisak Wannakeeree</name>
+            <uri>https://gtsalphamcp.com</uri>
         </author>
         <category label="Hello" term="Hello"/>
         <category label="Docusaurus" term="Docusaurus"/>
@@ -57,12 +57,12 @@
         <updated>2019-05-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Lorem ipsum dolor sit amet...]]></summary>
         <author>
-            <name>Sébastien Lorber</name>
-            <uri>https://sebastienlorber.com</uri>
+            <name>Jiraphinya (AI)</name>
+            <uri>https://github.com/ai-jiraphinya</uri>
         </author>
         <author>
-            <name>Yangshun Tay</name>
-            <uri>https://linkedin.com/in/yangshun</uri>
+            <name>Gittisak Wannakeeree</name>
+            <uri>https://gtsalphamcp.com</uri>
         </author>
         <category label="Hola" term="Hola"/>
         <category label="Docusaurus" term="Docusaurus"/>
