@@ -1,1 +1,1 @@
-"use strict";(globalThis.webpackChunkc_users_us_er_project_unicorn_docs=globalThis.webpackChunkc_users_us_er_project_unicorn_docs||[]).push([[1903],{1912(s){s.exports=JSON.parse('{"blogBasePath":"/unicorn-presentations/blog","blogTitle":"Blog","authorsListPath":"/unicorn-presentations/blog/authors"}')}}]);
+"use strict";(globalThis.webpackChunkc_users_us_er_project_unicorn_docs=globalThis.webpackChunkc_users_us_er_project_unicorn_docs||[]).push([[1903],{1912(s){s.exports=JSON.parse('{"blogBasePath":"/blog","blogTitle":"Blog","authorsListPath":"/blog/authors"}')}}]);
