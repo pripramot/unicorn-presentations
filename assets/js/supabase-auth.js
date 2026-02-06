@@ -174,11 +174,11 @@ async function isAuthenticated() {
  * Show error message
  */
 function showError(message) {
-  const errorDiv = document.getElementById('auth-message');
-  if (errorDiv) {
-    errorDiv.innerHTML = `<div class="alert alert--danger margin-bottom--md" role="alert">${message}</div>`;
+  const messageDiv = document.getElementById('auth-message');
+  if (messageDiv) {
+    messageDiv.innerHTML = `<div class="alert alert--danger margin-bottom--md" role="alert">${message}</div>`;
     setTimeout(() => {
-      errorDiv.innerHTML = '';
+      messageDiv.innerHTML = '';
     }, 5000);
   } else {
     alert(message);
@@ -189,9 +189,9 @@ function showError(message) {
  * Show success message
  */
 function showSuccess(message) {
-  const errorDiv = document.getElementById('auth-message');
-  if (errorDiv) {
-    errorDiv.innerHTML = `<div class="alert alert--success margin-bottom--md" role="alert">${message}</div>`;
+  const messageDiv = document.getElementById('auth-message');
+  if (messageDiv) {
+    messageDiv.innerHTML = `<div class="alert alert--success margin-bottom--md" role="alert">${message}</div>`;
   } else {
     alert(message);
   }
