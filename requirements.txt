@@ -1,0 +1,4 @@
+fastmcp
+supabase
+python-dotenv
+pg8000
